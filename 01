@@ -1,4 +1,6 @@
 class persona{
   protected String nombre;
   protected String dni;
+  protected LocalDate fechaNac;
 }
+
